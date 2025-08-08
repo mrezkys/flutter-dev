@@ -4,7 +4,7 @@ A single page that collects my Flutter work: published apps, starter templates, 
 
 ---
 
-## 🧰 My GitHub Repos
+## 🧰 Curated GitHub Repos
 
 **[flutter_presence](https://github.com/mrezkys/flutter_presence)** – Presence App | ![GitHub Repo stars](https://img.shields.io/github/stars/mrezkys/flutter_presence?style=flat-square)  
 Presence app integrated with geolocation (GPS) to help companies or developers build a presence system.  
