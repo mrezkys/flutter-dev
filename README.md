@@ -29,6 +29,7 @@ News app starter template with support for breaking news, video news, and bookma
 - Email: mrezkysulihin@gmail.com
 - Medium: https://mrezkys.medium.com
 - GitHub: https://github.com/mrezkys
+- LinkedIn: https://www.linkedin.com/in/mrezkys
 
 ## 📸 Gallery
 
